@@ -5,7 +5,7 @@ public class ChildClass : MonoBehaviour
 {
     //Member variables can be referred to as
     //fields.
-	[SerializeField]
+    [SerializeField]
     private Color _color;
 
     //Color is a basic property
